@@ -18,10 +18,10 @@
 To start using and installing CucumberAPS_PythonLibrary with pip type the command:
 
 ```
-pip install CucumberAPS_PythonLibrary
+pip install cucumber-aps
 ```
-See the [Pipy](https://pypi.org/project/CucumberAPS_PythonLibrary/) page for more details
+See the [Pipy](https://pypi.org/project/cucumberaps/) page for more details
 
 ## Usage
 
- In writting... 
+To use CucumberAPS_PythonLibrary in detail, refer to the <a href="https://github.com/afi-dev/CucumberAPS_PythonLibrary/wiki">documentation</a>
