@@ -7,7 +7,7 @@
 
 ## Note
 
-- CucumberAPS_PythonLibrary is not an official library and is not affiliated with **CucumberAPS** and his developper
+- CucumberAPS_PythonLibrary is not an official library and is not affiliated with <a href="https://aktech.fr">CucumberAPS</a> and his developper
 
 - For more information on the use of CuncumberAPS API please refer to the official <a href="https://asuniia.gitbook.io/cucumberaps">documenation</a>
 
